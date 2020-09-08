@@ -1,16 +1,7 @@
-# flutter_ring_test_app
+# Flutter Luxury Manager UI
 
-A new Flutter application.
+![ring](https://user-images.githubusercontent.com/23746859/92447936-45e5e100-f1fb-11ea-98ea-7bbb5aee8a4d.gif)
 
-## Getting Started
+![Un](https://user-images.githubusercontent.com/23746859/92448212-a1b06a00-f1fb-11ea-87ce-1ce654f6d3f7.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the design : https://dribbble.com/shots/7742832-Luxury-Manager-Mobile-App/attachments/441009?mode=media
